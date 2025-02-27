@@ -17,7 +17,7 @@ namespace Banco_de_Dados
         {
             InitializeComponent();
         }
-
+        //atualizado
         private void Form1_Load(object sender, EventArgs e)
         {
 
